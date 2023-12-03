@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Java and Spring Boot Projects <br>👯 I’m looking to collaborate on Software Developers related to java and spring boot <br>🌱 I’m currently learning New Java Spring Frameworks<br>💬 Ask me about Java and Spring <br>⚡ Fun fact I once wrote a program that generated infinite coffee for programmers. Unfortunately, it caused a stack overflow in the coffee machine! ☕💻 #CodeBrewer"
 
